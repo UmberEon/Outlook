@@ -1,0 +1,31 @@
+/**
+ * @name GameCube
+ * @author Disease#5663
+ * @version 1.0.0
+ * @description Based on Outlook Web.
+ * @source https://github.com/maenDisease/Outlook
+ * @invite BShu37e4jg
+ * @website https://maendisease.github.io/
+ * @authorId 678469587444170762
+ * @BDEditor Outlook
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower:wght@100;300;400;500;700&display=swap');
+@import url('https://maendisease.github.io/Outlook/Outlook.css');
+@import url('https://maendisease.github.io/BetterDiscordStuff/css/bdAddonMini.css');
+
+:root {
+  --home-image: url('https://i.imgur.com/c3Jpyic.jpg');
+  --accent-hue: 176;
+  --accent-saturation: 55%;
+  --accent-brightness: 56%;
+  --gradient-toggle: 1;
+  --gradient-hue-shift: 1.89;
+  --gradient-saturation: 81%;
+  --gradient-deg: 360deg;
+  --customFont: Indie Flower;
+}
+
+/* Any custom CSS below here */
+
+
